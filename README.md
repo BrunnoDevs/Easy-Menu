@@ -1,4 +1,4 @@
-# Easy-Menu
+ <h1>Easy-Menu</h1>
 ## Versão 1.0
 ## Status do Projeto: ⚠️ em desenvolvimento 
 ## Tópicos
@@ -76,8 +76,10 @@ Nosso projeto de aplicativo permite que os clientes façam pedidos online e reti
 
 **Tarefas a fazer📝**:
 
-- [ ] Criar Página principal
-- [ ] Carrinho de compras
+- [ ] Criar Tela Inicial  
+- [ ] Criar Página Principal/Produtos
+- [ ] Carrinho de Compras
+- [ ] Criar Página de Pagamentos
 - [ ] Implementação do código de estilização CSS
 - [ ] Implementação do código de marcação HTML
 - [ ] Implementação do código para interações em JAVASCRIPT

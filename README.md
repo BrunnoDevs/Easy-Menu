@@ -76,14 +76,16 @@ Nosso projeto de aplicativo permite que os clientes façam pedidos online e reti
 
 **Tarefas a fazer📝**:
 
-- [ ] Criar Página principal
+- [ ] Criar Pagina Inicial 
+- [ ] Criar Página principal/Produtos
 - [ ] Carrinho de compras
+- [ ] Página de Pagamento 
 - [ ] Implementação do código de estilização CSS
 - [ ] Implementação do código de marcação HTML
 - [ ] Implementação do código para interações em JAVASCRIPT
 
 
-**Concluidos:**
+**Concluidas:**
 
 Nenhuma até o momento.
 

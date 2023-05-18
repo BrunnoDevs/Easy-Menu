@@ -76,7 +76,7 @@ Nosso projeto de aplicativo permite que os clientes façam pedidos online e reti
 
 **Tarefas a fazer📝**:
 
-- [ ] Implementação do código para interações em JAVASCRIPT
+- 
 
 
 **Concluidos:**
@@ -88,6 +88,8 @@ Nosso projeto de aplicativo permite que os clientes façam pedidos online e reti
  Implementação do código de estilização CSS
  
  Implementação do código de marcação HTML
+ 
+ Implementação do código para interações em JAVASCRIPT
 
 ---
 
